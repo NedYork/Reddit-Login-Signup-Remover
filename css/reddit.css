@@ -1,0 +1,7 @@
+.modal-open {
+  overflow: auto !important;
+}
+
+#onboarding-splash {
+  display: none !important;
+}
